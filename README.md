@@ -5,3 +5,4 @@
 * MatPlotLib
 * SciKit-Learn
 * NLTK
+* Gensim
