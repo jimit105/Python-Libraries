@@ -14,3 +14,4 @@
 * SciKit-Learn
 * NLTK
 * Gensim
+* Seaborn
