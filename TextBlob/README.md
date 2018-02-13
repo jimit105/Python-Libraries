@@ -19,3 +19,14 @@ To download the necessary corpora, you can run the following command:
 ```python
 python -m textblob.download_corpora
 ```
+
+## Topics:
+* Tokenization
+* Noun Phrase Extraction
+* Part-of-speech Tagging
+* Words Inflection and Lemmatization
+* N-grams
+* Sentiment Analysis
+* Spelling Correction
+* Translation and Language Detection
+* Text Classification
