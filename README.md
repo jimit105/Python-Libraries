@@ -15,3 +15,4 @@
 * NLTK
 * Gensim
 * Seaborn
+* TextBlob
