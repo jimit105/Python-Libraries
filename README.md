@@ -8,11 +8,11 @@
 ---
 
 ## Contents:
-* Numpy
-* Pandas
-* MatPlotLib
-* SciKit-Learn
-* NLTK
-* Gensim
-* Seaborn
-* TextBlob
+* [Numpy](/Numpy/)
+* [Pandas](/Pandas/)
+* [MatPlotLib](/MapPlotLib/)
+* [SciKit-Learn](/SciKit-Learn/)
+* [NLTK](/NLTK/)
+* [Gensim](/Gensim/)
+* [Seaborn](/Seaborn/)
+* [TextBlob](/TextBlob/)
