@@ -10,7 +10,7 @@
 ## Contents:
 * [Numpy](/Numpy/)
 * [Pandas](/Pandas/)
-* [MatPlotLib](/MapPlotLib/)
+* [MatPlotLib](/MatPlotLib/)
 * [SciKit-Learn](/SciKit-Learn/)
 * [NLTK](/NLTK/)
 * [Gensim](/Gensim/)
